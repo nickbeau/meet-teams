@@ -1,0 +1,39 @@
+{
+  "cacheBootResources": true,
+  "config": [ ],
+  "debugBuild": false,
+  "entryAssembly": "TeamsMeet",
+  "linkerEnabled": true,
+  "resources": {
+    "assembly": {
+      "Microsoft.AspNetCore.Blazor.HttpClient.dll": "sha256-AdApFPCgYiDsZ+5yj7R63quCNoR4hZLl7aQialMJivE=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-60bkXNjM2FDELgI9UbiVMPdZ6mkKJsrx\/yaAHoHS7Bs=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-NNP7nacRwdsr1k6aLXTdFbzQAEjNBQX65nqY8a1dwTY=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-w4s2X6BxJPjmpsLi7EQhyHSduYQlIJUC7\/wD3CNqg\/8=",
+      "Microsoft.Bcl.AsyncInterfaces.dll": "sha256-jzHgXWAvWMkKIGFjZoT84tbe72E+H7CvTr\/Dryh4QPs=",
+      "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-+eX6QcNQe3dF6qWSdU0jdR2wTT18KDsrEhZfWvw6F94=",
+      "Microsoft.Extensions.Configuration.dll": "sha256-Eo2LMrwuwPdkTttCzvh\/ud\/a7p4Snz4\/CynrQ2gwQ48=",
+      "Microsoft.Extensions.Configuration.Json.dll": "sha256-HGH9XdLRZP5XsOZiJByYfmbh8MFKLLvOKP\/uIZjirMc=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-5Xt\/mFiqZkSwvILcfgR3Ngxu7tHVl6qmEEDjHpyVP9Y=",
+      "Microsoft.Extensions.DependencyInjection.dll": "sha256-\/0DitIpO8Xd6vQ\/iVLIRn3LOol2zVnSliy4PrMNdCjk=",
+      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-8HuLSw3K\/Ay9dOyTi5XX7Dy5swyU9gZRV\/Edt9oCWXA=",
+      "Microsoft.Extensions.Primitives.dll": "sha256-PBXzBSvRE4H9u1YaSE2SR3I1MlDwJkqQbKQIwRPPWdY=",
+      "Microsoft.JSInterop.dll": "sha256-CJ0jnf2G21cOvZYQt\/4NVkv642Xz8fLQyPnHvcfP3D4=",
+      "Microsoft.JSInterop.WebAssembly.dll": "sha256-DzwRh28B7P\/hxbem8OsEmaQXHO8\/KeQ+InYtTbBIyzU=",
+      "mscorlib.dll": "sha256-qkwPrs5vIMdPnUdOxE\/gI\/HSB2Aqd9JEULz8exxB2p4=",
+      "System.Core.dll": "sha256-yOfZAbO847GCD3f9\/fsHMLEpLuahlO15y+Y5Oli5UlE=",
+      "System.dll": "sha256-vCjI7\/QJ+WP7m37ouWhX36\/gUIUpNCwmZMkP8MtezME=",
+      "System.Net.Http.dll": "sha256-WbPVMu8I+a9JlUVju0iwp9hQUj4RRUlPCQNPy9lOyIQ=",
+      "System.Runtime.CompilerServices.Unsafe.dll": "sha256-dhiGSxNg21Z0iK\/Y8CYWtuaVRXrTD6dOiQQYM1TgBkI=",
+      "System.Text.Encodings.Web.dll": "sha256-ur5Ht\/jSPSGVLKj1UbYxI8viYClcrcWZEa1pNejaEDg=",
+      "System.Text.Json.dll": "sha256-DuVMpdOHtzlZkErfCshxgLGP2X9totB6FJTLKHSQUqE=",
+      "TeamsMeet.dll": "sha256-A52IqKbiTiK9ozkyFUFuqTnH+ibDt2eP1aJ26ABzfV4=",
+      "WebAssembly.Bindings.dll": "sha256-PfwLsV5dsknHAME\/UtQMhxGcTVtav8o7qvwqTA7GWBY=",
+      "WebAssembly.Net.Http.dll": "sha256-ult9wxz7vcVOOECTPWxKGFlhzRBp2rNVin889YAiPXQ="
+    },
+    "runtime": {
+      "dotnet.3.2.0-preview3.20168.1.js": "sha256-274clLanSGrn5tb3h9iFyKyVG0KYG2Um+VHF0kdNzHE=",
+      "dotnet.wasm": "sha256-JMG2FGgTy70oSWAVIpQcblmNZtV\/DaEaIZEaROjE7Eo="
+    }
+  }
+}
