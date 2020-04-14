@@ -7,6 +7,7 @@
     <base href="/meet-teams/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
+    <script src='https://statics.teams.cdn.office.net/sdk/v1.6.0/js/MicrosoftTeams.min.js'></script>
 </head>
 <body>
     <app>Loading...</app>
@@ -49,5 +50,8 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        microsoftTeams.initialize();
+    </script>
 </body>
 </html>
